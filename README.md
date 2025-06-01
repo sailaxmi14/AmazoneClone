@@ -1,2 +1,4 @@
 # AmazoneClone
-It is similar to amazon website webpage, it is just a demo for amazon website.
+It is similar to amazon website webpage.
+<br>
+It is a demo version for amazon webpage.
